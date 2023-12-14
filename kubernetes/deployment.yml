@@ -21,7 +21,7 @@ spec:
             - name: MLFLOW_TRACKING_URI
               value: https://user-f5f31q-779722.user.lab.sspcloud.fr
             - name: MLFLOW_MODEL_NAME
-              value: modele_test1
+              value: modele_test2
             - name: MLFLOW_MODEL_VERSION
               value: "1"
           resources:
